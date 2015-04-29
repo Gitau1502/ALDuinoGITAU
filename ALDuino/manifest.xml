@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.2" uuid="alduino">
+<package version="0.0.4" uuid="alduino">
  <names>
   <name lang="en_US">ALDuino</name>
  </names>
  <descriptions>
-  <description lang="en_US">NAOqi service to inteface with teh Arduino microcontroller.</description>
+  <description lang="en_US">NAOqi service to inteface with the Arduino microcontroller.</description>
  </descriptions>
  <supportedLanguages>
   <language>en_US</language>
