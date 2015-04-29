@@ -1,5 +1,5 @@
 """arduino.py
-NAOqi service that controls an Arduino board runnning the standard Firmatta
+NAOqi service that controls an Arduino board runnning the standard Firmata
 sketch.
 """
 
