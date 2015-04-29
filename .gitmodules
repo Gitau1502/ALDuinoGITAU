@@ -1,0 +1,3 @@
+[submodule "ALDuino/lib/butane"]
+	path = ALDuino/lib/butane
+	url = git@gitlab.aldebaran.lan:boston-studio/butane.git
