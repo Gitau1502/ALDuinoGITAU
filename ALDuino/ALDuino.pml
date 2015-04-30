@@ -19,6 +19,12 @@
         <File name="pyfirmata" src="lib/pyfirmata/pyfirmata.py" />
         <File name="util" src="lib/pyfirmata/util.py" />
         <File name="register" src="lib/register.py" />
+        <File name="__init__" src="lib/butane/__init__.pyc" />
+        <File name="fuel" src="lib/butane/fuel.pyc" />
+        <File name="__init__" src="lib/pyfirmata/__init__.pyc" />
+        <File name="boards" src="lib/pyfirmata/boards.pyc" />
+        <File name="pyfirmata" src="lib/pyfirmata/pyfirmata.pyc" />
+        <File name="util" src="lib/pyfirmata/util.pyc" />
     </Resources>
     <Topics>
         <Topic name="Lexicon_enu" src="lib/butane/dialog/Lexicon/Lexicon_enu.top" topicName="Lexicon" language="en_US" />
